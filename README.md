@@ -1,1 +1,1 @@
-# INFO-6210-DMDD
+# INFO-6210-Data Management and Database Design
